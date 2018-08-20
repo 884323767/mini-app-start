@@ -37,7 +37,11 @@ Page({
         })
 
     },
-
+    goHome() {
+      wx.navigateTo({
+        url: '../menu/index'
+      })
+    },
     setGame: function() {
 
         this.drawMineField();

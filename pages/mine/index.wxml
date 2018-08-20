@@ -21,5 +21,6 @@
 <view class="tips">
     <text>- 点击 START 开始游戏，RESTART 重新开始\n- Switch 切换标志插旗</text>
 </view>
+  <view class="home-btn"><button class="test-btn" type="primary" bindtap="goHome">主页</button></view>
 
 

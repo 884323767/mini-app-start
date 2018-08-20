@@ -3,7 +3,9 @@
     "pages/mine/index",
     "pages/index/index",
     "pages/logs/logs",
-    "pages/home/index"
+    "pages/home/index",
+    "pages/menu/index",
+    "pages/gift/index"    
   ],
   "window":{
     "backgroundTextStyle":"light",
