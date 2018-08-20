@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/mine/index",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "don‘t touch me",
+    "navigationBarTextStyle":"black"
+  }
+}
