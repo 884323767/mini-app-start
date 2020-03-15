@@ -68,6 +68,16 @@ Page({
       url: '../test/index'
     })
   },
+  goGift() {
+    wx.navigateTo({
+      url: '../gift/gift'
+    })
+  },
+  goTest() {
+    wx.navigateTo({
+      url: '../test/test'
+    })
+  },
   onLoad: function () {
     console.log(app.globalData.userInfo);
     if (app.globalData.userInfo) {

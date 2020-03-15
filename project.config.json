@@ -10,7 +10,9 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.2.3",
 	"appid": "wxef989a0bc6240174",
-	"projectname": "扫雷",
+	"projectname": "%E6%89%AB%E9%9B%B7",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,

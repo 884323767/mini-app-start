@@ -4,7 +4,12 @@
   flex-direction: column;
   align-items: center;
 }
-
+.gift {
+  color: red;
+}
+.home {
+  background-color: grey;
+}
 .userinfo-avatar {
   width: 128rpx;
   height: 128rpx;
@@ -22,5 +27,5 @@
   padding: 10rpx;
 }
 .usermotto {
-  margin-top: 200px;
+  margin-top: 2ß0px;
 }
